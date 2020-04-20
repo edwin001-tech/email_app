@@ -1,0 +1,15 @@
+{
+  "name": "email_app",
+  "version": "1.0.0",
+  "description": "send bulk emails with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edwin shitakwa",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.0.1",
+    "cors": "^2.8.5"
+  }
+}
